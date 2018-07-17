@@ -19,6 +19,15 @@
   "engines": {
     "node": ">=7.9.0"
   },
+  "devDependencies": {
+  "grunt": "~0.4.4",
+  "grunt-shell": "~0.7.0",
+  "grunt-template": "~0.2.3",
+  "istanbul": "~0.2.7",
+  "qunit-extras": "~1.1.0",
+  "qunitjs": "~1.11.0",
+  "requirejs": "~2.1.11"
+  },
   "author": "Arjun G",
   "license": "MIT",
   "bugs": {
