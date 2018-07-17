@@ -1,0 +1,28 @@
+{
+  "name": "redux-reducer-dispatcher",
+  "version": "0.1.0",
+  "description": "This module help to dispatch an action in a reducer asynchronously.",
+  "main": "dist/redux-reducer-dispatcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjupba/redux-reducer-dispatcher.git"
+  },
+  "keywords": [
+    "redux",
+    "logger",
+    "redux-reducer-dispatcher",
+    "middleware"
+  ],
+  "engines": {
+    "node": ">=7.9.0"
+  },
+  "author": "Arjun G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arjupba/redux-reducer-dispatcher/issues"
+  },
+  "homepage": "https://github.com/arjupba/redux-reducer-dispatcher#readme"
+}
