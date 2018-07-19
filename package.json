@@ -1,6 +1,6 @@
 {
   "name": "redux-reducer-dispatcher",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "This module help to dispatch an action in a reducer asynchronously.",
   "main": "dist/redux-reducer-dispatcher.js",
   "scripts": {
@@ -31,7 +31,8 @@
   "peerDependencies": {
     "react": "^16.0",
     "react-native": "^0.51 || ^0.52 || ^0.53 || ^0.54 || ^0.55",
-    "prop-types": "^15.0 || ^16.0"
+    "prop-types": "^15.0 || ^16.0",
+    "eslint-plugin-prettier": "2.4.0"
   },
   "author": "Arjun G",
   "license": "MIT",
