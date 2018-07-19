@@ -26,6 +26,7 @@ const store = createStore(
 
 ```javascript
 //Reducer Function
+
 export default function(state: any = initialState, action: Function) {
   switch (action.type) {
     case "XYZ":
