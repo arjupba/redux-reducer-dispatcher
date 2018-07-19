@@ -1,6 +1,6 @@
 {
   "name": "redux-reducer-dispatcher",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "This module help to dispatch an action in a reducer asynchronously.",
   "main": "dist/redux-reducer-dispatcher.js",
   "scripts": {
