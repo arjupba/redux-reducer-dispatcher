@@ -1,2 +1,7 @@
-# redux-reducer-dispatcher
-This module help to dispatch an action in a reducer asynchronously.
+
+
+redux-reducer-dispatcher
+=========
+
+This is a small module to help dispatch an action in a reducer asynchronously.
+
