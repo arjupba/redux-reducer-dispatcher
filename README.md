@@ -24,3 +24,16 @@ const store = createStore(
 // Note passing middleware as the third argument requires redux@>=3.1.0
 ```
 
+```javascript
+//Reducer
+export default function(state: any = initialState, action: Function) {
+  switch (action.type) {
+    case "XYZ":
+      action.reducerDispatch({ type: "test" });
+      return {
+        ...state
+        //XYZ: ZYX,
+      };
+  }
+}
+```
