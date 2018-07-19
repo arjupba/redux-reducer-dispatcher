@@ -20,13 +20,26 @@
     "node": ">=7.9.0"
   },
   "devDependencies": {
-  "grunt": "~0.4.4",
-  "grunt-shell": "~0.7.0",
-  "grunt-template": "~0.2.3",
-  "istanbul": "~0.2.7",
-  "qunit-extras": "~1.1.0",
-  "qunitjs": "~1.11.0",
-  "requirejs": "~2.1.11"
+    "grunt": "~0.4.4",
+    "grunt-shell": "~0.7.0",
+    "grunt-template": "~0.2.3",
+    "istanbul": "~0.2.7",
+    "qunit-extras": "~1.1.0",
+    "qunitjs": "~1.11.0",
+    "requirejs": "~2.1.11",
+    "babel-eslint": "^6.1.2",
+    "babel-preset-airbnb": "^1.1.1",
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-prefer-object-spread": "^1.1.0",
+    "eslint-plugin-react": "^6.1.2",
+    "gitbook-cli": "^2.3.0",
+    "lodash": "^4.17.2",
+    "prop-types": "^15.5.10",
+    "react": "^16.3.0-alpha.1",
+    "react-native": "^0.54"
   },
   "peerDependencies": {
     "react": "^16.0",
