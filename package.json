@@ -28,6 +28,9 @@
   "qunitjs": "~1.11.0",
   "requirejs": "~2.1.11"
   },
+  "peerDependencies": {
+    "react": "16.0.0"
+  },
   "author": "Arjun G",
   "license": "MIT",
   "bugs": {
