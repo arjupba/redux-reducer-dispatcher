@@ -25,11 +25,11 @@ const store = createStore(
 ```
 
 ```javascript
-//Reducer
+//Reducer Function
 export default function(state: any = initialState, action: Function) {
   switch (action.type) {
     case "XYZ":
-      action.reducerDispatch({ type: "test" });
+      action.reducerDispatch({ type: "newActionType" });
       return {
         ...state
         //XYZ: ZYX,
